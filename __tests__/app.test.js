@@ -1,4 +1,4 @@
-const addNumbers = require('../app.js');
+const {addNumbers} = require('../app.js');
 
 describe('addNumbers', () => {
   
